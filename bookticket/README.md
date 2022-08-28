@@ -1,6 +1,6 @@
 # bookticket
 
-A new Flutter project.
+Learning project from https://www.youtube.com/watch?v=71AsYo2q_0Y&t=191s
 
 ## Getting Started
 
